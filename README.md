@@ -1,7 +1,7 @@
 # Gravitational Wave Lensing Simulation Dataset (Simulated by SL-Hammocks)
 
 This dataset contains simulated gravitational wave lensing events observed by the **['ET', 'CE']** network.
-The simulation assumes a specific cosmology and lens population model (based on GWTC-4.0 catalog).
+The simulation assumes a specific cosmology and lens population model (based on GWTC-4.0 catalog).[![DOI](https://zenodo.org/badge/1127564141.svg)](https://doi.org/10.5281/zenodo.19212270)
 
 All files share the `event_id` column.
 
